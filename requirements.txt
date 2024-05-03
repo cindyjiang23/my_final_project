@@ -11,13 +11,6 @@ chromedriver==2.24.1
 click-plugins==1.1.1
 cligj==0.7.2
 clyent==1.2.1
-conda-repo-cli==1.0.75
-conda-verify==3.4.2
-constantly==15.1.0
-cssselect==1.1.0
-datashape==0.5.4
-et-xmlfile==1.1.0
-fiona==1.9.6
 folium==0.16.0
 fonttools==4.25.0
 geopandas==0.14.4
