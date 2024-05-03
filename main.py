@@ -41,7 +41,7 @@ def plot_regression(X, y, countries, model, xlabel, ylabel):
     plt.show()
     st.pyplot(plt)
 
-file_path = '/Users/cindyjiang/Desktop/JIANG_CINDY_proj3/final_merged_data.csv'
+file_path = 'my_final_project/final_merged_data.csv'
 data = pd.read_csv(file_path)
 data = data.dropna(subset=['GDP per Capita (USD)', 'Household Spending (Million US$)'])
 data['Award'] = data['Award'].str.lower().str.strip()
