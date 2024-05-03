@@ -36,6 +36,7 @@ PyQt5-sip==12.11.0
 python-lsp-jsonrpc==1.0.0
 queuelib==1.5.0
 rich==13.7.1
+scikit-learn==0.24.2
 selenium==4.19.0
 shapely==2.0.4
 smmap==5.0.1
